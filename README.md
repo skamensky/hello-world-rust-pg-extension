@@ -26,3 +26,13 @@ To run the test script:
 
 `chmod +x ./test.sh && ./test.sh`
 
+If successful, you should see the following output:
+
+```
+Building the Docker image
+<Docker build ouptut>
+Waiting for PostgreSQL to start...
+CREATE EXTENSION
+Test passed!
+```
+
