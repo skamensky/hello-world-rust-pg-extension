@@ -13,7 +13,7 @@ This project demonstrates how to create a PostgreSQL extension using Rust. It se
 - **test.sh**: A shell script to automate the building, testing, and running of the PostgreSQL extension.
 
 
-1. **Run the Test Script**: The `test.sh` script automates the process of:
+**Run the Test Script**: The `test.sh` script automates the process of:
 
 a. Building the Docker image which compiles the rust extension
 b. Creating a temporary container to extract the compiled extension
