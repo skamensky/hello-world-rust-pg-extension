@@ -1,0 +1,5 @@
+comment = 'hello_pg_ext:  Created by pgx'
+default_version = '@CARGO_VERSION@'
+module_pathname = '$libdir/hello_pg_ext'
+relocatable = false
+superuser = true
